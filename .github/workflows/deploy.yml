@@ -38,7 +38,7 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "mhussain722-verifed-89"
-          entrypoint: "index.js"
+          entrypoint: "index.html"
           root: "build"
           
           
