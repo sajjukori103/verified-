@@ -37,7 +37,7 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "mhussain722-verifed-22"
+          project: "mhussain722-verifed-89"
           entrypoint: "index.js"
           root: "build"
           
